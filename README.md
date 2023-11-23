@@ -1,4 +1,4 @@
-### 안녕하세요~ 근성 있는 프론트 엔드 개발자가 되고 싶은 기범석 입니다~ 👋
+00### 안녕하세요~ 근성 있는 프론트 엔드 개발자가 되고 싶은 기범석 입니다~ 👋
 
 ## 📚 공부중인 기술 입니다!.
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
