@@ -12,7 +12,7 @@
 ## 정말 맛보기식 으로 발을 담궈본 기술 입니다. 계속 공부할 예정인 기술들.
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![FIREBASE](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![MONGODB]([https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white))
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
